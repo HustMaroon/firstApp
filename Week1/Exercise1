@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 
-$n = 2
+$n = 2 # so nguyen to dau tien
 while $n <= 10000 do
 	$i = 2
 	$s = 1
